@@ -1,6 +1,6 @@
 # Parallax Effect in CSS 
 
-![ScreenShot](screen.jpg)
+![ScreenShot](imagens/screen.jpg)
 
 Parallax é o nome dado ao efeito de diferentes objetos parecerem estar em diferentes posições ou direções quando observados em diferentes posições. Isso é muito comum em nosso cotidiano, e amplamente usado em jogos 2D para dar uma ideia de profundidade.
 
